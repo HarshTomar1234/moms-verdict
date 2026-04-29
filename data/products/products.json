@@ -1,0 +1,82 @@
+[
+  {
+    "product_id": "product_001",
+    "name_en": "Joie i-Spin 360 Travel System Stroller",
+    "name_ar": "عربة جوي آي-سبن 360 ترافيل سيستم",
+    "brand": "Joie",
+    "category": "Strollers & Travel Systems",
+    "age_range": "0-4 years",
+    "description_en": "3-in-1 travel system with rotating carrycot, infant car seat compatibility, and toddler seat. One-hand fold. Suitable from birth to 22 kg.",
+    "description_ar": "نظام سفر 3 في 1 مع كاريكوت دوّار وتوافق مع كرسي السيارة للرضيع وكرسي الأطفال الكبار. يطوى بيد واحدة. مناسب من الولادة حتى 22 كجم."
+  },
+  {
+    "product_id": "product_002",
+    "name_en": "Pampers Premium Care Diapers, Size 3 (6-10 kg), 132 count",
+    "name_ar": "حفاضات بامبرز بريميوم كير، مقاس 3 (6-10 كغ)، 132 حبة",
+    "brand": "Pampers",
+    "category": "Diapers",
+    "age_range": "6-12 months",
+    "description_en": "Premium care diapers with Aloe Vera lotion. 12-hour leak protection. Hypoallergenic.",
+    "description_ar": "حفاضات بريميوم كير مع لوشن الألوفيرا. حماية ضد التسرب لمدة 12 ساعة. لطيف على البشرة."
+  },
+  {
+    "product_id": "product_003",
+    "name_en": "Aptamil Profutura Stage 1 Infant Formula, 800g",
+    "name_ar": "حليب أبتاميل بروفوتورا المرحلة 1 للرضع، 800 جرام",
+    "brand": "Aptamil",
+    "category": "Baby Formula",
+    "age_range": "0-6 months",
+    "description_en": "Stage 1 infant formula with HMOs and DHA. From birth to 6 months.",
+    "description_ar": "حليب أبتاميل المرحلة الأولى للرضع مع أوليجوسكريدات حليب الأم ودي اتش ايه. من الولادة حتى 6 أشهر."
+  },
+  {
+    "product_id": "product_004",
+    "name_en": "VTech Musical Soft Toy with Lights",
+    "name_ar": "لعبة فيتك الموسيقية الناعمة مع الأضواء",
+    "brand": "VTech",
+    "category": "Baby Toys",
+    "age_range": "0-12 months",
+    "description_en": "Soft musical toy with 5 melodies, gentle lights, and crinkle textures for sensory development.",
+    "description_ar": "لعبة موسيقية ناعمة مع 5 ألحان وأضواء لطيفة وأنسجة محشّية لتطوير الحواس."
+  },
+  {
+    "product_id": "product_005",
+    "name_en": "Chicco Seat3Fit i-Size Car Seat",
+    "name_ar": "كرسي سيارة شيكو سيت3فيت آي-سايز",
+    "brand": "Chicco",
+    "category": "Car Seats",
+    "age_range": "0-7 years",
+    "description_en": "i-Size (ECE R129) certified car seat with 9 recline positions, ISOFIX installation, and side impact protection. Rear-facing to 18 kg, forward-facing to 25 kg.",
+    "description_ar": "كرسي سيارة معتمد بمواصفة آي-سايز (ECE R129) مع 9 أوضاع إمالة وتثبيت ISOFIX وحماية من الصدمات الجانبية. مواجه للخلف حتى 18 كجم ومواجه للأمام حتى 25 كجم."
+  },
+  {
+    "product_id": "product_006",
+    "name_en": "Spectra S1 Plus Double Electric Breast Pump",
+    "name_ar": "شفاطة الثدي الكهربائية المزدوجة سبيكترا إس1 بلس",
+    "brand": "Spectra",
+    "category": "Breast Pumps",
+    "age_range": "Postpartum",
+    "description_en": "Hospital-grade double electric breast pump with rechargeable battery, massage mode, and adjustable suction and cycle speeds.",
+    "description_ar": "شفاطة ثدي كهربائية مزدوجة بمستوى المستشفيات مع بطارية قابلة للشحن ووضع التدليك وسرعات شفط ودورة قابلة للضبط."
+  },
+  {
+    "product_id": "product_007",
+    "name_en": "HALO BassiNest Swivel Sleeper",
+    "name_ar": "سرير هالو باسينيست الدوّار",
+    "brand": "HALO",
+    "category": "Baby Bedside Sleepers",
+    "age_range": "0-5 months",
+    "description_en": "360-degree swivel bassinet with breathable mesh sides, adjustable height, and retractable side wall for safe and easy bedside access.",
+    "description_ar": "سرير جانبي دوّار 360 درجة مع جوانب شبكية متنفسة وارتفاع قابل للتعديل وجانب جانبي قابل للسحب للوصول الآمن والسهل بجانب السرير."
+  },
+  {
+    "product_id": "product_008",
+    "name_en": "Mustela Hydra Bébé Body Lotion, 300ml",
+    "name_ar": "لوشن مستيلا هيدرا بيبيه للجسم، 300 مل",
+    "brand": "Mustela",
+    "category": "Baby Skincare",
+    "age_range": "0-12 months",
+    "description_en": "Daily hydrating body lotion with Avocado Perseose and Sunflower Oil. Dermatologist tested, hypoallergenic.",
+    "description_ar": "لوشن ترطيب يومي للجسم مع بيرسيوز الأفوكادو وزيت عباد الشمس. مختبر من قبل طبيب جلدية وآمن للبشرة الحساسة."
+  }
+]
