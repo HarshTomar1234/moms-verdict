@@ -1,0 +1,64 @@
+# Environment
+.env
+.env.local
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual env
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Eval outputs (keep results/ structure, ignore generated runs)
+evals/results/run_*.json
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS
+Thumbs.db
+
+# Loom artifacts
+*.mov
+*.mp4
+loom-recording/
+
+# Session exports and working notes (not part of the submission)
+*.txt
+LOOM_SCRIPT.md
+
