@@ -1,0 +1,6 @@
+[
+  {"review_id": "p003_rev_001", "language": "en", "rating": 4, "text": "My pediatrician recommended this stage 1 formula. My baby took to it well, no spitting up.", "helpful_count": 8},
+  {"review_id": "p003_rev_002", "language": "en", "rating": 3, "text": "We had some gas issues the first few days. Talked to our doctor and she said to give it a week before deciding. Improved by day 6.", "helpful_count": 12},
+  {"review_id": "p003_rev_003", "language": "ar", "rating": 5, "text": "حليب ممتاز، بنتي تقبله بسهولة. أوصى به طبيب الأطفال.", "helpful_count": 6},
+  {"review_id": "p003_rev_004", "language": "ar", "rating": 2, "text": "ولدي صار عنده مغص قوي بعد ما بدأنا فيه. رجعت لطبيب الأطفال ونصحني أبدّل الماركة. كل طفل يختلف عن الثاني.", "helpful_count": 15}
+]
